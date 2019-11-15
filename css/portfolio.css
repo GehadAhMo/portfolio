@@ -1,0 +1,47 @@
+.navbar-light{
+  padding: .1rem 1rem;
+  background-color: #28564a!important;
+}
+.navbar-light .nav-link {
+  color: #FFF !important;
+}
+.navbar-light .nav-link:hover {
+  color: #000 !important;
+}
+.bg-photo {
+    background-image: url('../assests/header-bg1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 500px;
+    /*background-size: 100% 100%;*/
+    color: white;
+}
+.fade-effect{
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    overflow: hidden;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: color, background-color;
+    transition-property: color, background-color, transform;
+}
+.fade-effect:hover{
+  background: #81d4be;
+  background: #fff57a;
+  color: black;
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.typewriter {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+}
+.zone_1 {
+    margin-top: 5%;
+}
