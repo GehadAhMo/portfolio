@@ -59,3 +59,13 @@
 .my-titles{
   padding: 30px 10px;
 }
+.lower{
+  position: absolute;
+    width: 90%;
+    background-color: transparent;
+    z-index: 2;
+    margin-top: 120px;
+    font-family: Josefin Sans;
+    text-transform: capitalize;
+    color: #5C75A7;
+}
