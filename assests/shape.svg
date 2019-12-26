@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(57,180,194,0);
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4, .cls-5 {
+        fill: rgba(255,255,255,0);
+      }
+
+      .cls-5 {
+        stroke: rgba(202,221,249,0.76);
+        stroke-width: 5px;
+      }
+
+      .cls-6 {
+        fill: rgba(87,171,193,0.68);
+        stroke: rgba(112,112,112,0);
+      }
+
+      .cls-10, .cls-7, .cls-8, .cls-9 {
+        fill: rgba(255,255,255,0.68);
+      }
+
+      .cls-8 {
+        stroke: #5bc5db;
+      }
+
+      .cls-10, .cls-8, .cls-9 {
+        stroke-width: 3px;
+      }
+
+      .cls-9 {
+        stroke: #db5bb4;
+      }
+
+      .cls-10 {
+        stroke: #ef0fca;
+      }
+
+      .cls-11 {
+        fill: #7bced2;
+      }
+
+      .cls-12, .cls-14 {
+        stroke: none;
+      }
+
+      .cls-13 {
+        fill: none;
+      }
+
+      .cls-14 {
+        fill: rgba(112,112,112,0);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="1684.342" height="888.53"/>
+    </clipPath>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-2">
+    <rect class="cls-4" width="1920" height="1080"/>
+    <g id="shape" class="cls-3" transform="translate(153.336 -110)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-4" width="1684.342" height="888.53"/>
+      <path id="Path_1" data-name="Path 1" class="cls-5" d="M604.808,240.133s391.179-2.951,450.371,0,76.167,65.5,0,64.932-48.9-5.9-92.648,0-28.309,67.883,0,64.932,290.812-2.951,342.282,0,56.618,73.786,0,73.786H622.822c-41.177,0-46.324-73.786,0-73.786h48.9c28.309,0,38.6-64.932,0-64.932h-185.3c-77.206,0-59.192-67.883,0-64.932S604.808,240.133,604.808,240.133Z" transform="translate(-60.314 111.27)"/>
+      <g id="Ellipse_1" data-name="Ellipse 1" class="cls-6" transform="translate(1223.229 308.305)">
+        <ellipse class="cls-12" cx="10.407" cy="12.447" rx="10.407" ry="12.447"/>
+        <ellipse class="cls-13" cx="10.407" cy="12.447" rx="9.907" ry="11.947"/>
+      </g>
+      <g id="Rectangle_1-2" data-name="Rectangle 1" class="cls-7" transform="matrix(0.656, 0.755, -0.755, 0.656, 271.36, 433.877)">
+        <path class="cls-12" d="M0,0,26.7,2.331l2.02,22.57L2.02,22.57Z"/>
+        <path class="cls-14" d="M 1.102460861206055 1.100059509277344 L 2.941532135009766 21.6468677520752 L 27.61547660827637 23.80113983154297 L 25.77639579772949 3.254339218139648 L 1.102460861206055 1.100059509277344 M -1.9073486328125e-06 -1.9073486328125e-06 L 26.6977481842041 2.330978393554688 L 28.71793937683105 24.90119934082031 L 2.020177841186523 22.57022857666016 L -1.9073486328125e-06 -1.9073486328125e-06 Z"/>
+      </g>
+      <path id="Path_2" data-name="Path 2" class="cls-8" d="M639.725,394.656v35.4" transform="translate(-283.504 -155.948)"/>
+      <path id="Path_3" data-name="Path 3" class="cls-8" d="M611.081,403.143h33.346" transform="translate(-271.521 -147.208)"/>
+      <path id="Path_4" data-name="Path 4" class="cls-9" d="M639.725,394.656v42.249" transform="translate(260.157 -251.694)"/>
+      <path id="Path_5" data-name="Path 5" class="cls-10" d="M611.081,403.143h31.931" transform="translate(272.848 -239.623)"/>
+      <g id="Rectangle_1-3" data-name="Rectangle 1" class="cls-11" transform="matrix(0.656, 0.755, -0.755, 0.656, 271.36, 433.877)">
+        <path class="cls-12" d="M0,0,26.7,2.331l2.02,22.57L2.02,22.57Z"/>
+        <path class="cls-14" d="M 1.102460861206055 1.100059509277344 L 2.941532135009766 21.6468677520752 L 27.61547660827637 23.80113983154297 L 25.77639579772949 3.254339218139648 L 1.102460861206055 1.100059509277344 M -1.9073486328125e-06 -1.9073486328125e-06 L 26.6977481842041 2.330978393554688 L 28.71793937683105 24.90119934082031 L 2.020177841186523 22.57022857666016 L -1.9073486328125e-06 -1.9073486328125e-06 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
